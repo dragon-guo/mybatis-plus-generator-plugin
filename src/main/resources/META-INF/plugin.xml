@@ -8,11 +8,10 @@
         <h2>MyBatis Plus 代码生成器插件</h2>
         <p>一个强大的 MyBatis Plus 代码生成器，可以根据数据库表结构自动生成:</p>
         <h3>截图预览:</h3>
-        <p><img src="https://raw.githubusercontent.com/mybatis-plus-generator/mybatis-plus-generator-plugin/main/screenshots/1.png" alt="截图1" width="600"/></p>
-        <p><img src="https://raw.githubusercontent.com/mybatis-plus-generator/mybatis-plus-generator-plugin/main/screenshots/2.png" alt="截图2" width="600"/></p>
-        <p><img src="https://raw.githubusercontent.com/mybatis-plus-generator/mybatis-plus-generator-plugin/main/screenshots/3.png" alt="截图3" width="600"/></p>
-        <p><img src="https://raw.githubusercontent.com/mybatis-plus-generator/mybatis-plus-generator-plugin/main/screenshots/4.png" alt="截图4" width="600"/></p>
-        <p><img src="https://raw.githubusercontent.com/mybatis-plus-generator/mybatis-plus-generator-plugin/main/screenshots/5.png" alt="截图5" width="600"/></p>
+        <p><img src="https://github.com/dragon-guo/mybatis-plus-generator-plugin/raw/main/screenshots/2.png" alt="截图1" width="600"/></p>
+        <p><img src="https://github.com/dragon-guo/mybatis-plus-generator-plugin/raw/main/screenshots/3.png" alt="截图3" width="600"/></p>
+        <p><img src="https://github.com/dragon-guo/mybatis-plus-generator-plugin/raw/main/screenshots/4.png" alt="截图4" width="600"/></p>
+        <p><img src="https://github.com/dragon-guo/mybatis-plus-generator-plugin/raw/main/screenshots/5.png" alt="截图5" width="600"/></p>
         <ul>
             <li>Entity 实体类 (支持 Lombok, Swagger2 注解)</li>
             <li>Mapper 接口</li>
