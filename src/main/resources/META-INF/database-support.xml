@@ -1,0 +1,18 @@
+<idea-plugin>
+    <!-- Database 插件支持的扩展点 -->
+    <extensions defaultExtensionNs="com.intellij.database">
+        <!-- 可以在这里添加数据库相关的扩展 -->
+    </extensions>
+
+    <actions>
+        <!-- 数据库工具窗口右键菜单 -->
+        <group id="MybatisPlusGenerator.DatabasePopup" text="MyBatis Plus Generator">
+            <add-to-group group-id="DatabaseViewPopupMenu" anchor="last"/>
+
+            <action id="MybatisPlusGenerator.GenerateFromDatabase"
+                    class="com.mybatisplus.generator.action.GenerateCodeAction"
+                    text="生成 MyBatis Plus 代码..."
+                    description="从数据库表生成代码"/>
+        </group>
+    </actions>
+</idea-plugin>
