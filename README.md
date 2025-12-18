@@ -2,6 +2,13 @@
 
 IntelliJ IDEA 插件 - MyBatis Plus 代码生成器
 
+## 功能特性
+
+- **多数据库支持**: MySQL, PostgreSQL, Oracle, 达梦数据库
+- **可视化界面**: 图形化配置数据库连接和代码生成选项
+- **自定义模板**: 支持 Freemarker 模板引擎
+- **代码生成**: 自动生成 Entity, Mapper, Service, Controller, XML
+
 ## 截图预览
 
 <table>
@@ -17,13 +24,6 @@ IntelliJ IDEA 插件 - MyBatis Plus 代码生成器
     <td colspan="2" align="center"><img src="screenshots/5.png" width="400"/></td>
   </tr>
 </table>
-
-## 功能特性
-
-- **多数据库支持**: MySQL, PostgreSQL, Oracle, 达梦数据库
-- **可视化界面**: 图形化配置数据库连接和代码生成选项
-- **自定义模板**: 支持 Freemarker 模板引擎
-- **代码生成**: 自动生成 Entity, Mapper, Service, Controller, XML
 
 ## 安装方式
 
