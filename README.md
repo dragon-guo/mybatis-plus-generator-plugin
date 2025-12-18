@@ -13,15 +13,12 @@ IntelliJ IDEA 插件 - MyBatis Plus 代码生成器
 
 <table>
   <tr>
-    <td><img src="screenshots/1.png" width="400"/></td>
-    <td><img src="screenshots/2.png" width="400"/></td>
+    <td><img src="https://github.com/dragon-guo/mybatis-plus-generator-plugin/raw/main/screenshots/2.png" width="400"/></td>
+    <td><img src="https://github.com/dragon-guo/mybatis-plus-generator-plugin/raw/main/screenshots/3.png" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/3.png" width="400"/></td>
-    <td><img src="screenshots/4.png" width="400"/></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="screenshots/5.png" width="400"/></td>
+    <td><img src="https://github.com/dragon-guo/mybatis-plus-generator-plugin/raw/main/screenshots/4.png" width="400"/></td>
+    <td><img src="https://github.com/dragon-guo/mybatis-plus-generator-plugin/raw/main/screenshots/5.png" width="400"/></td>
   </tr>
 </table>
 

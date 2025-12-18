@@ -58,7 +58,7 @@
         <!-- 右侧工具窗口 -->
         <toolWindow id="MyBatis Plus Generator"
                     anchor="right"
-                    icon="AllIcons.Nodes.DataTables"
+                    icon="/META-INF/pluginIcon.svg"
                     factoryClass="com.mybatisplus.generator.toolwindow.GeneratorToolWindowFactory"/>
 
         <!-- 持久化配置 -->
